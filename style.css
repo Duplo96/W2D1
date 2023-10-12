@@ -35,26 +35,25 @@
   color: black;
   background-color: rgb(210, 209, 209);
   border: solid 3px rgb(117, 110, 99);
-
 }
-a{
+a {
   color: black;
   font-weight: bold;
   text-decoration: none;
 }
 /* Modifica lo stile di tutte le icone  */
-ion-icon{
-font-size: 20pt;
-font-weight: bold;
-text-align: center;
-cursor: pointer;
+ion-icon {
+  font-size: 20pt;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
 }
 
 .button2 {
   position: absolute;
   background-color: rgb(210, 209, 209);
   bottom: -60px;
- right: 80px;
+  right: 80px;
   color: black;
   border: solid 3px rgb(117, 110, 99);
   border-radius: 30px;
@@ -67,7 +66,6 @@ cursor: pointer;
   color: black;
   border: solid 3px rgb(117, 110, 99);
   border-radius: 30px;
-
 }
 /* Indica il comportamente dell button1 al passaggio del mouse sulla foto */
 .foto:hover .button1 {
@@ -76,10 +74,10 @@ cursor: pointer;
   border-radius: 15px;
 }
 /* Indica il comportamente dell button2 al passaggio del mouse sulla foto */
-.foto:hover .button2{
+.foto:hover .button2 {
   bottom: 0%;
- right: 80px;
-border-radius: 30px;
+  right: 80px;
+  border-radius: 30px;
 }
 
 /* Indica il comportamente dell button3 al passaggio del mouse sulla foto */
